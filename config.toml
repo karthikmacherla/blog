@@ -21,7 +21,7 @@ pygmentsUseClasses = true
 
 [menu]
 	[[menu.main]]
-		name = "Post"
+		name = "Posts"
 		url = "/post/"
 	
 	[[menu.main]]
@@ -35,7 +35,7 @@ pygmentsUseClasses = true
 	# If false, use minified CSS (ui.min.css)
 	debugCSS = false
 	# Custom CSS
-	customCSS = []
+	customCSS = ["css/custom.css"]
 	
 	# Site meta description
 	description = "A blog for the author not the reader."
@@ -80,7 +80,7 @@ pygmentsUseClasses = true
 	highlightJsStyle = "ocean"
 
 	# Social Links
-	email = "kmacher@seas.upenn.edu"
+	# email = "kmacher@seas.upenn.edu"
 	github = "https://github.com/karthikmacherla/"
 	linkedin = "https://www.linkedin.com/in/karthikmacherla"
 
