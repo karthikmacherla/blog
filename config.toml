@@ -1,9 +1,9 @@
 baseURL = "example.com"
-title = "Manis"
+title = "Karthik Macherla"
 theme = "manis"
 
 # Copyright notice. Note: You can use HTML tag here
-copyright = "&copy; 2019 Yurizal Susanto"
+copyright = "&copy; 2020 Karthik Macherla"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
@@ -38,9 +38,9 @@ pygmentsUseClasses = true
 	customCSS = []
 	
 	# Site meta description
-	description = "Sweet little Hugo's theme for personal website or blog."
+	description = "A blog for the author not the reader."
 	# Site's Tagline (Subtitle or Keyword)
-	tagline = "Nothing sweeter than this"
+	tagline = "A learning experience for the writer, and possibly the reader."
 	# If true give attribution to this theme
 	themeAttrib = true
 	# URL to license file, can be outside of your domain
@@ -80,9 +80,8 @@ pygmentsUseClasses = true
 	highlightJsStyle = "ocean"
 
 	# Social Links
-	email = "mail@yurizal-san.com"
-	github = "https://github.com/yursan9/"
-	twitter = "https://twitter.com/yuri_boya"
+	email = "kmacher@seas.upenn.edu"
+	github = "https://github.com/karthikmacherla/"
 
 
 # Language Configuration
