@@ -1,5 +1,5 @@
 baseURL: "https://karthikmacherla.codes"
-title: ExampleSite
+title: Hi I'm Karthik!
 paginate: 5
 theme: hugo-PaperMod
 
@@ -39,7 +39,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: "Karthik Macherla"
     imageUrl: "img/karthikmacherla.jpg"
     # imageTitle: my image
@@ -47,7 +47,7 @@ params:
       - name: Posts
         url: post
       - name: About
-        url: tags
+        url: about
 
   # home-info mode
   homeInfoParams:
