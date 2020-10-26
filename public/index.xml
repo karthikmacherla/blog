@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Karthik Macherla</title>
-    <link>example.com/</link>
-    <description>Recent content on Karthik Macherla</description>
+    <title>ExampleSite</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on ExampleSite</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2020 Karthik Macherla</copyright>
+    <lastBuildDate>Fri, 15 May 2020 13:56:30 -0400</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://examplesite.com/post/test/</link>
+      <pubDate>Fri, 15 May 2020 13:56:30 -0400</pubDate>
+      
+      <guid>https://examplesite.com/post/test/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="example.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>About</title>
+      <link>https://examplesite.com/about/</link>
+      <pubDate>Fri, 15 May 2020 01:03:18 -0400</pubDate>
+      
+      <guid>https://examplesite.com/about/</guid>
+      <description>Hi!
+My name is Karthik Macherla, and I am currently a junior studying Computer and Information Science at the University of Pennsylvania. I love to solve problems, learn new ways of thinking, and finding new perspectives on things I already know. Since I&amp;rsquo;ve come to Penn, I&amp;rsquo;ve been fascinated by problem solving in system design, in algorithms, and decision making. I want to use this blog as an opportunity to write about some of the crazy/cool/wild things I think I&amp;rsquo;ve learned and also talk about what they can mean for the future.</description>
+    </item>
     
   </channel>
 </rss>
