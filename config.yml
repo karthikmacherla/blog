@@ -1,5 +1,5 @@
 baseURL: "https://karthikmacherla.codes"
-title: Hi I'm Karthik!
+title: "Karthik Macherla"
 paginate: 5
 theme: hugo-PaperMod
 
@@ -34,13 +34,13 @@ params:
     favicon: "<path / external url>"
 
   label:
-    text: "Home"
+    text: "Karthik Macherla"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Karthik Macherla"
+    title: "Hi I'm Karthik! \U0001F44B"
     imageUrl: "img/karthikmacherla.jpg"
     # imageTitle: my image
     buttons:
@@ -61,7 +61,6 @@ params:
       url: "https://linkedin.com/in/karthikmacherla"
     - name: github
       url: "https://github.com/karthikmacherla"
-
   analytics:
     google:
       SiteVerificationTag: "XYZabc"

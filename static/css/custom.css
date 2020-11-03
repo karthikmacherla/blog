@@ -3,25 +3,17 @@ html * {
 }
 
 .title-container {
-	margin-top: 20px;
-	display: flex;
-	flex-direction: row;
-}
-
-#profilepic {
-	width: 150px;
-	height: 150px;
-	border-radius: 150px;
-	margin-right: 15px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
 }
 
 .title-panel {
-	display: flex;
-	flex-direction: column-reverse;
-	justify-content: center;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
 }
 
 #sitetitle {
-	order: 2;
+  order: 2;
 }
-
