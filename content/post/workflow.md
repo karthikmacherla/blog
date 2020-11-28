@@ -1,6 +1,6 @@
 ---
 title: "Workflow 1.0: Terminal "
-date: 2020-11-01T23:39:28-05:00
+date: 2020-11-02T23:39:28-05:00
 weight: 1
 aliases: ["/first"]
 tags: ["first"]
