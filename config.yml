@@ -35,6 +35,8 @@ params:
 
   label:
     text: "Karthik Macherla"
+    iconlight: /img/logoblue.png
+    icondark: /img/logodark.png
     iconHeight: 35
 
   # profile-mode
