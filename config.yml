@@ -31,7 +31,7 @@ params:
   disableSpecial1stPost: false
 
   assets:
-    favicon: "<path / external url>"
+    favicon: /img/logodark.png
 
   label:
     text: "Karthik Macherla"
@@ -69,6 +69,10 @@ params:
 
 menu:
   main:
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 4
     - name: Posts
       url: /post/
       weight: 5
