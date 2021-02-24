@@ -20,7 +20,7 @@ I love Thursdays. At Penn especially, Thursdays for most of us are when we're do
 
 In the same vain, there's so many things right now that we constantly delegate to a new and better "future us" to solve, at way bigger time scales. If I asked you to imagine your yourself 10 years from now, what would you think? Would you be smarter, more confident, better rested? Would life be more stable/fun (even more than it already is)? Chances are, if you're like me and a bunch of other people, in ten years, so much would change that you probably see yourself as more settled, and all of those unsolved problems (career, love life, etc.) would have just magically been solved. Also, for a smaller number of people, the sheer amount of stuff you would have done in ten years probably makes you think that you'd be living such a different life that you might little in common with who you are now.
 
-It turns out, there _is_ a connection betwegit adden anticipating the next week and anticipating the next ten years and it starts with temporal landmarks:
+It turns out, there _is_ a connection between anticipating the next week and anticipating the next ten years and it starts with temporal landmarks:
 
 > Temporal landmark (TLs): Moments that stand (or will stand out) in time relative to the surrounding days.
 
