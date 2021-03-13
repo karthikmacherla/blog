@@ -31,19 +31,19 @@ params:
   disableSpecial1stPost: false
 
   assets:
-    favicon: /img/logodark.png
+    favicon: /img/logodarkgold.png
 
   label:
     text: "Karthik Macherla"
-    iconlight: /img/logoblue.png
-    icondark: /img/logodark.png
+    iconlight: /img/logolightgold.png
+    icondark: /img/logodarkgold.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi I'm Karthik! \U0001F44B"
-    imageUrl: "img/karthikmacherla.jpg"
+    imageUrl: "img/blackshirt.jpg"
     # imageTitle: my image
     buttons:
       - name: Posts
