@@ -44,3 +44,7 @@ For the second: Forgive yourself. Create your own TLs at your "lows" so that whe
 ## Closing Thoughts
 
 I thought these ideas were super cool, and while some might be inherently obvious, I thought it would be cool to show you how to think about things like procrastination in a potentially different way as well as where research stand right now.
+
+
+
+
