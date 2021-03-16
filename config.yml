@@ -31,6 +31,7 @@ params:
   disableSpecial1stPost: false
 
   assets:
+    faviconApple: /img/logodarkgoldicon.png
     favicon: /img/logodarkgold.png
 
   label:
