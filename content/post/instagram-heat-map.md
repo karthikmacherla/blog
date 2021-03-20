@@ -14,6 +14,8 @@ comments: false
 ---
 In this project, I'm going to show you how my friend and I scraped data from Instagram's (somewhat) public API and how we used this data to gain insights about the most popular locations to take pictures in a given area.
 
+Find repo [here](https://github.com/karthikmacherla/Instagram-Location-Scraper).
+
 ## Motivation
 One of my close friends really likes taking pictures. One thing I never realized was how hard it was to find good places to take pictures, especially in Tallahassee, FL (my hometown).
 
