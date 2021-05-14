@@ -1,4 +1,4 @@
-baseURL: "https://karthikmacherla.codes"
+baseURL: "."
 title: "Karthik Macherla"
 paginate: 5
 theme: hugo-PaperMod
