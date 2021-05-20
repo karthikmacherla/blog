@@ -36,9 +36,9 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-  img {
+  /* img {
       width: 150px;
-  }
+  } */
   .main>.profile>.profile_inner {
       transform: translate(0, 0);
   }

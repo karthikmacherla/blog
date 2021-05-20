@@ -39,7 +39,6 @@ params:
     iconlight: /img/logolightgold.png
     icondark: /img/logodarkgold.png
     iconHeight: 35
-    iconWidth: 35
 
   # profile-mode
   profileMode:
