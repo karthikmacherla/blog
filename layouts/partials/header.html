@@ -33,11 +33,13 @@
             <a href="{{ "" | absLangURL }}">
                 {{- if .Site.Params.label.iconLight }}
                 <img id="logo-light" src="{{- .Site.Params.label.iconLight -}}" alt="logo" aria-label="logo"
-                    height="{{- .Site.Params.label.iconHeight | default "30px" -}}">
+                    height="{{- .Site.Params.label.iconHeight | default "30px" -}}" 
+                    width="{{- .Site.Params.label.iconHeight | default "30px" -}}" >
                 {{- end -}}
                 {{- if .Site.Params.label.iconDark }}
                 <img id="logo-dark" src="{{- .Site.Params.label.iconDark -}}" alt="logo" aria-label="logo"
-                    height="{{- .Site.Params.label.iconHeight | default "30px" -}}">
+                    height="{{- .Site.Params.label.iconHeight | default "30px" -}}" 
+                    width="{{- .Site.Params.label.iconHeight | default "30px" -}}">
                 {{- end -}}
                 {{- .Site.Params.label.text | default .Site.Title -}}
             </a>
