@@ -3,7 +3,7 @@ title: "Understanding the Homeless Shelter Diet and How We Can Do Better"
 date: 2021-04-11T17:50:27-04:00
 weight: 1
 aliases: []
-tags: []
+tags: ["thoughts"]
 author: "Me"
 showToc: false
 TocOpen: false

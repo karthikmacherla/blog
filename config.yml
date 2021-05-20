@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpored: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-5M9VCY5HPE
 
 minify:
   disableXML: true
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Hi I'm Karthik! \U0001F44B"
+  title: "Hi, I'm Karthik! \U0001F44B"
   description: "Welcome to my blog"
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -25,7 +25,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: false
-  comments: true
+  comments: false
   defaultTheme: auto
   disableThemeToggle: false
   disableSpecial1stPost: false
@@ -43,18 +43,22 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Hi I'm Karthik! \U0001F44B"
+    title: "Hi, I'm Karthik! \U0001F44B"
     imageUrl: "img/blackshirt.jpg"
     # imageTitle: my image
     buttons:
-      - name: Posts
-        url: post
-      - name: About
-        url: about
+      - name: Projects
+        url: tags/projects
+      - name: Thoughts
+        url: tags/thoughts
+      - name: All Posts
+        url: /archives/
+      # - name: Subscribe!
+      #   url: http://eepurl.com/hy1YIv
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi I'm Karthik! \U0001F44B"
+    Title: "Hi, I'm Karthik! \U0001F44B"
     Content: Welcome to my blog
 
   socialIcons:
@@ -64,19 +68,25 @@ params:
       url: "https://linkedin.com/in/karthikmacherla"
     - name: github
       url: "https://github.com/karthikmacherla"
+    - name: rss
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-5M9VCY5HPE"
 
 menu:
   main:
-    - identifier: Tags
-      name: Tags
-      url: /tags/
-      weight: 4
-    - name: Posts
-      url: /post/
-      weight: 5
+    - name: Projects
+      url: /tags/projects/
+      weight: 2
+    - name: Thoughts
+      url: /tags/thoughts/
+      weight: 3
+    # - name: Archive
+    #   url: /archives/
+    #   weight: 5
     - name: About
       url: /about/
-      weight: 10
+      weight: 6
+    - name: Subscribe
+      url: http://eepurl.com/hy1YIv
+      weight: 7

@@ -2,8 +2,8 @@
 title: "Workflow 1.0: Terminal "
 date: 2020-11-02T23:39:28-05:00
 weight: 1
-aliases: ["/first"]
-tags: ["first"]
+# aliases: ["/first"]
+tags: ["projects", "thoughts"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

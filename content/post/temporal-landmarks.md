@@ -3,7 +3,7 @@ title: "Temporal Landmarks: What they are and why they matter"
 date: 2020-11-27T09:24:22-05:00
 weight: 1
 aliases: ["/first"]
-tags: ["behavior psychology"]
+tags: ["behavior psychology", "thoughts"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

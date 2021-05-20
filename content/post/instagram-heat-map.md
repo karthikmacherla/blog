@@ -3,7 +3,7 @@ title: "Fun with Selenium: Scraping Instagram Locations"
 date: 2021-03-17T13:42:55-04:00
 weight: 1
 aliases: []
-tags: []
+tags: ["projects"]
 author: "Me"
 showToc: false
 TocOpen: false

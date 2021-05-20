@@ -3,7 +3,7 @@ title: "Panther: A Distributed Web Crawler in Python"
 date: 2021-03-11T23:32:40-05:00
 weight: 1
 aliases: []
-tags: []
+tags: ["projects"]
 author: "Me"
 showToc: false
 TocOpen: false

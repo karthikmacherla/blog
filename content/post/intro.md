@@ -2,8 +2,8 @@
 title: "Why I'm Starting This Blog"
 date: 2020-11-01T21:48:42-05:00
 weight: 1
-aliases: ["/first"]
-tags: ["first"]
+aliases: []
+tags: ["thoughts"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false

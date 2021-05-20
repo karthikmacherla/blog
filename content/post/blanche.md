@@ -4,7 +4,7 @@ title: "Blanche: A Spotlight Search for Chrome"
 date: 2021-01-13T15:20:41-05:00
 weight: 1
 aliases: ['/project']
-tags: ['project']
+tags: ['projects']
 author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: false
