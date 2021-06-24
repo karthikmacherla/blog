@@ -10,5 +10,10 @@ My name is Karthik Macherla, and I am currently a Senior studying [Computer and 
 
 I hope that by doing this, we'll both be able to learn something new. If you find something interesting, or want to collab on a project, feel free to reach out! 
 
-
 Email: kmacher@seas.upenn.edu
+
+*New!*
+What I'm working on right now (last updated Jun 23 2021):
+- Amazon Alexa Mobile Team (internship project)
+- When learning is dangerous post
+- Picking out my next project + new moves
