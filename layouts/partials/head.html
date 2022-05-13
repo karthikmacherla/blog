@@ -29,11 +29,11 @@
 {{- $404 := resources.Get "css/404.css" }}
 {{- $style := slice $theme $reset $header $main $postentry $postsingle $terms $archive $footer $404 | resources.Concat "stylesheet.css" }}
 {{- $stylesheet := slice $anoldhope $style | resources.Concat "assets/css/stylesheet.css" | minify | fingerprint -}}
-<link href="{{ $stylesheet.Permalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet"
+<link href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet"
     as="style">
 {{- if (and (.Site.Params.profileMode.enabled) (.IsHome)) }}
 {{- $profileMode := slice (resources.Get "css/profile-mode.css") | resources.Concat "assets/css/profile-mode.css" | minify | fingerprint }}
-<link href="{{ $profileMode.Permalink }}" integrity="{{ $profileMode.Data.Integrity }}" rel="preload stylesheet"
+<link href="{{ $profileMode.RelPermalink }}" integrity="{{ $profileMode.Data.Integrity }}" rel="preload stylesheet"
     as="style">
 {{- end -}}
 <!-- Favicons -->
