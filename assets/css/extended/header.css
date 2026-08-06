@@ -1,0 +1,17 @@
+/* Logo styling in header */
+.logo a img {
+    display: inline;
+    vertical-align: middle;
+    pointer-events: none;
+    border-radius: 6px;
+    margin-inline-end: 8px;
+}
+
+/* Light/dark logo switching */
+[data-theme="light"] .logo a img {
+    content: url("/img/logolightgold.png");
+}
+
+[data-theme="dark"] .logo a img {
+    content: url("/img/logodarkgold.png");
+}

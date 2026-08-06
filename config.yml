@@ -1,12 +1,14 @@
 baseURL: "https://blog.karthikmacherla.com"
 title: "Karthik Macherla"
-paginate: 5
 theme: hugo-PaperMod
+
+pagination:
+  pagerSize: 5
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
-buildExpored: false
+buildExpired: false
 
 googleAnalytics: G-5M9VCY5HPE
 
@@ -21,7 +23,15 @@ params:
   author: Me
   # author: ["Me", "You"] # multiple authors
 
-  images: "<link or path of image for opengraph, twitter-cards>"
+  authors:
+    me:
+      name: Karthik Macherla
+
+  social:
+    facebook_admin: ""
+    twitter: ""
+
+  images: []
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -36,8 +46,7 @@ params:
 
   label:
     text: "Karthik Macherla"
-    iconlight: /img/logolightgold.png
-    icondark: /img/logodarkgold.png
+    icon: img/logodarkgold.png
     iconHeight: 35
 
   # profile-mode
